@@ -1,0 +1,120 @@
+1
+george the second
+0
+5100
+300
+
+1
+george the third
+3000
+2000
+0
+
+1
+jeremy woodward
+300.454
+300
+0
+
+1
+franky finkers
+0
+0
+0
+
+1
+vermont
+0
+0
+0
+
+1
+philly
+0
+0
+0
+
+1
+jucy dane
+0
+0
+0
+
+1
+jucie jane
+0
+0
+0
+
+1
+yooursocool dude
+0
+0
+0
+
+1
+how long
+0
+0
+0
+
+1
+going haa
+0
+0
+0
+
+1
+new account 2
+0
+0
+0
+
+1
+new account 3
+399
+0
+0
+
+1
+new account 4
+0
+0
+0
+
+1
+more and more acc
+39992
+0
+0
+
+1
+wow alot
+0
+0
+0
+
+1
+mr moneybags
+0
+0
+0
+
+1
+jeremy joans
+3004
+4999
+0
+
+1
+marisa biddy
+0.34
+0
+1e+006
+
+0
+
+-9.25596e+061
+-9.25596e+061
+-9.25596e+061
+
